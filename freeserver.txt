@@ -1,6 +1,6 @@
 # profile-title: ShieldWalker | FREE 💘 |
 # profile-update-interval: 3
-vless://902cdea8-75e9-4f61-80d1-48a0ddd3857a@104.17.74.206:2086?encryption=none&host=tech.narkhesanj.ir&path=%2F%3Fed%3D2056&security=none&type=ws#Страна%20Germany%20%20/%20shieldwalker_bot
+vless://716a8171-09d1-4b5c-b816-34e6537b60ae@51.250.25.46:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=4YI0QbJYHCyl4-VWZPWAMccOmUW0c_XDE_rEZc-dNC0#🇩🇪ShieldWalker FREE
 vless://5eb165ea-afb6-427a-a814-adf14856a169@panel-de1.998521.xyz:60260?security=none&type=ws&path=%2F&host=panel-de1.998521.xyz#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%7C%20%5BShieldWalker%5D
 vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?allowInsecure=1&encryption=none&host=terazhediii.info&path=/sghiyws&security=tls&sni=terazhediii.info&type=ws#🇩🇪 ShieldWalker FREE
 vless://0eb7bd8a-dc6e-4042-968f-70bcffc976c6@chatgpt.com:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=best1.api-tel.xyz&fp=chrome&type=ws&sni=best1.api-tel.xyz#Страна%20Germany%20%20/%20shieldwalker_bot
