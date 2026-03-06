@@ -1,6 +1,6 @@
 # profile-title: ShieldWalker | FREE 💘 |
 # profile-update-interval: 3
 vless://21915536-afb5-4a0c-b047-fcf549d3a173@212.113.99.50:8443?encryption=none&type=tcp&security=reality&fp=chrome&sni=wikihow.com&pbk=1HeKf_8KDjfzXfUi9P7WBaGStMvr96TKdUbofpkwBzQ&sid=8bd29483ded126b4#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%28Innenstadt%20I%29%20%7C%20%5BBL%5D
+vless://5eb165ea-afb6-427a-a814-adf14856a169@panel-de1.998521.xyz:60260?security=none&type=ws&path=%2F&host=panel-de1.998521.xyz#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%7C%20%5BShieldWalker%5D
 vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?allowInsecure=1&encryption=none&host=terazhediii.info&path=/sghiyws&security=tls&sni=terazhediii.info&type=ws#🇩🇪 ShieldWalker FREE
-vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@45.130.125.198:2053?path=%2F&security=tls&encryption=none&insecure=1&host=kaja.thisiswe.uno&fp=chrome&type=ws&allowInsecure=1&sni=kaja.thisiswe.uno#🇩🇪ShieldWalker FREE#4134
-vless://e4e7866d-920b-4a53-a8e2-6ae9b2a42fc2@47.91.94.112:10040?security=none&encryption=none&headerType=none&type=tcp#🇩🇪Не работает? = обнови подписку#4089
+vless://e8fb0f43-3497-4ef3-8a89-35bae56549b7@93.94.51.8:13380?security=reality&encryption=none&pbk=JitkQnVQffSjGpth1UKvZP4yLX6HmcshmClfzbC70T4&headerType=none&fp=chrome&spx=/&allowinsecure=0&type=tcp&sni=yandex.ru&sid=99de062f46387d3e#🇩🇪ShieldWalker FREE
