@@ -1,6 +1,6 @@
 # profile-title: ShieldWalker | FREE 💘 |
 # profile-update-interval: 3
 vless://716a8171-09d1-4b5c-b816-34e6537b60ae@51.250.25.46:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=4YI0QbJYHCyl4-VWZPWAMccOmUW0c_XDE_rEZc-dNC0#🇩🇪ShieldWalker FREE
-vless://5eb165ea-afb6-427a-a814-adf14856a169@panel-de1.998521.xyz:60260?security=none&type=ws&path=%2F&host=panel-de1.998521.xyz#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%7C%20%5BShieldWalker%5D
-vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?allowInsecure=1&encryption=none&host=terazhediii.info&path=/sghiyws&security=tls&sni=terazhediii.info&type=ws#🇩🇪 ShieldWalker FREE
-vless://0eb7bd8a-dc6e-4042-968f-70bcffc976c6@chatgpt.com:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=best1.api-tel.xyz&fp=chrome&type=ws&sni=best1.api-tel.xyz#Страна%20Germany%20%20/%20shieldwalker_bot
+ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@57.128.214.100:12000?#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Brunswick%20%7C%20%5BBL%5D
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@213.202.208.199:7001?#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20D%C3%BCsseldorf%20%28Stadtbezirk%20IX%29%20%7C%20%5BBL%5D
+vless://f8d4581a-6dd4-5f4d-b37d-b994c5ae81b1@104.21.17.104:8880?encryption=none&type=xhttp&security=none&host=ci49kfwjrc-57129121185.hediiigate.com&path=%2Fcompass%2Fcdn%2F%3FI&mode=auto&extra=null#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D
