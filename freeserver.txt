@@ -1,6 +1,3 @@
 # profile-title: ShieldWalker | FREE 💘 |
 # profile-update-interval: 3
-vless://dc1b85fd-a08e-42d7-ae2b-0a320f3399b7@de.pp.prod.n7.homes:8444?type=xhttp&security=reality&encryption=none&fp=chrome&pbk=upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo&sid=3ca620a7ed5f3196&sni=google.com#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
-vless://446879b9-710c-431b-94d0-f6b4c18a528a@95.163.210.24:7433?encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D%20VK
-vless://8ae2f8dc-0207-4dfc-8e9d-81ca0bf914f8@84.201.172.57:8443?encryption=none&type=tcp&security=reality&fp=random&sni=ads.x5.ru&pbk=9xutLI0-ArXpx6yTGJIIKakQz7UbjHINp6qSTJVJnkI&sid=87e041&spx=%2F#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D%20YA
-vless://b7f56bc9-c0bd-4183-9a83-afae17790afe@51.250.7.133:8443?encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=Et79yUOJz9PzAcMHzyZotcBerO6T6YY-FKXoC6V6Nw4&sid=cde8&spx=%2F#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D%20YA
+vless://b61714be-8bc6-4a9a-bc46-c1950aa603b1@194.9.6.118:12443?security=reality&encryption=none&pbk=kjYnWkxgewB9k_-RWIgRPvjOoiCREr9ks5qllrvb-hI&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=google.com&sid=1d17b9f02500fd14#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
