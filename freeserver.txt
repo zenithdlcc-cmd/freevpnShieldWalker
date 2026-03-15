@@ -1,5 +1,5 @@
 # profile-title: ShieldWalker | FREE 💘 |
 # profile-update-interval: 3
-vless://dc84d6fd-ec3d-4ecc-a176-c14fc17e3e2c@det.jojack.ru:443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=det.jojack.ru&pbk=ca5sfJNcjkh3oNt51hRexXbGWgITAqCprGSU-YKCJBA&fp=qq&bx=%2F&sid=8dc4fccb2bcfc99d#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
 vless://dc1b85fd-a08e-42d7-ae2b-0a320f3399b7@fr.pp.prod.n7.homes:8443?encryption=none&security=reality&sni=sun6-21.userapi.com&fp=chrome&pbk=upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo&sid=3ca620a7ed5f3196&spx=%2F&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5BSNI-RU%5D%20sun6-21.userapi.com
-vless://216e28b3-5950-4f89-916c-62bc50e092de@51.250.98.66:7433?encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D%20YA
+vless://2563b829-866c-4c0f-8270-a91cffbfe852@0ru84.tcpdoor.net:443?type=tcp&security=reality&fp=firefox&pbk=RHUQAGJ_MYNKsZt2XO_DATEm1cQh0Rdpz83DTCGSKl0&sid=2e1971f5&sni=0ru84.tcpdoor.net&spx=/#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
+vless://932130c7-197b-4b37-af26-d550c47ba8f4@cdn4.api-rutube.ru:443?type=tcp&security=&encryption=none&fp=qq#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%28Innenstadt%20I%29%20%7C%20%5BBL%5D
