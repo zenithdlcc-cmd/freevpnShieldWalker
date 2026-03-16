@@ -2,4 +2,5 @@
 # profile-update-interval: 3
 vless://932130c7-197b-4b37-af26-d550c47ba8f4@212.41.10.64:443?encryption=none&type=tcp&security=none#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
 vless://932130c7-197b-4b37-af26-d550c47ba8f4@45.152.113.186:443?encryption=none&type=tcp&security=none#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
-vless://932130c7-197b-4b37-af26-d550c47ba8f4@cdn4.api-rutube.ru:443?type=tcp&security=&encryption=none&fp=qq#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
+vless://2563b829-866c-4c0f-8270-a91cffbfe852@de31.abvpn.ru:443?type=tcp&security=reality&fp=firefox&pbk=Wg_prcp8fAsUrveCKVqBsk_8mWuKurQb-0N3H1e35mk&sid=5c999707&sni=www.tradingview.com&spx=/#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
+vless://d51f31b4-6e74-4a57-8ea0-a62830df3f45@g.backup.plnt.su:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=g.backup.plnt.su&fp=&pbk=1he5EyHxI595x0mNkFNxOebUOQZGVGIy_c92bn1qO2o&sid=ac31827454d7f693#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%28Innenstadt%20I%29%20%7C%20%5BBL%5D
