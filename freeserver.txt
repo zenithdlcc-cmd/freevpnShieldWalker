@@ -1,6 +1,6 @@
 # profile-title: ShieldWalker | FREE 💘 |
 # profile-update-interval: 3
+vless://997bc475-4621-4612-8337-cc55a0cb68ab@dev.fastdbn.com:5001?security=reality&type=grpc&serviceName=downloads.3cx.com&authority=downloads.3cx.com&mode=gun&sni=downloads.3cx.com&fp=firefox&pbk=12UHjWCU_BNIkRmxt-6QKAuVuSIFzoS2jkN1BIMzGjM&sid=cdce15b3e2179ce8#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
+vless://d46f01f8-ce9a-4e1b-a4d6-1a4edb2332ad@de5.mambo-jambo.ru:48432?security=none&type=ws&headerType=&path=&host=&flow=#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%
 vless://932130c7-197b-4b37-af26-d550c47ba8f4@185.175.44.196:443?encryption=none&type=tcp&security=none#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
-vless://932130c7-197b-4b37-af26-d550c47ba8f4@212.41.10.64:443?type=tcp&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
 vless://932130c7-197b-4b37-af26-d550c47ba8f4@45.152.113.188:443?encryption=none&type=tcp&security=none#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
-vless://932130c7-197b-4b37-af26-d550c47ba8f4@45.152.113.63:443?encryption=none&type=tcp&security=none#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
