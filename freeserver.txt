@@ -1,6 +1,4 @@
 # profile-title: ShieldWalker | FREE 💘 |
 # profile-update-interval: 3
-vless://ce41165d-f134-4ad4-ac73-a4b2f19595ed@217.16.28.201:7433?encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D%20VK
-vless://d0624d6b-d654-4202-ae5d-dee00a6e11a2@217.16.28.201:7433?encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D%20VK
-vless://d0624d6b-d654-4202-ae5d-dee00a6e11a2@95.163.211.101:7433?encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D%20VK
-vless://ea143789-bec4-4fdd-b879-e817d2935334@217.16.28.201:7433?encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D%20VK
+vless://2563b829-866c-4c0f-8270-a91cffbfe852@0ru84.tcpdoor.net:443?encryption=none&type=raw&headerType=none&security=reality&fp=chrome&pbk=RHUQAGJ_MYNKsZt2XO_DATEm1cQh0Rdpz83DTCGSKl0&sni=0ru84.tcpdoor.net&sid=2e1971f5#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
+vless://2563b829-866c-4c0f-8270-a91cffbfe852@0ru84.tcpdoor.net:443?type=tcp&security=reality&fp=firefox&pbk=RHUQAGJ_MYNKsZt2XO_DATEm1cQh0Rdpz83DTCGSKl0&sid=2e1971f5&sni=0ru84.tcpdoor.net&spx=/#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
