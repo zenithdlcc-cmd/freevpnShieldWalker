@@ -1,6 +1,7 @@
 # profile-title: ShieldWalker | FREE 💘 |
 # profile-update-interval: 3
-vless://0a9b1f4a-d3be-4eee-a6f5-5e063b1e2e5b@150.241.78.33:41058?security=reality&type=tcp&flow=&pbk=_QDwxrXkq5boyi45_1cGxgTezBMzKk3-sLnrB4AeWnk&fp=chrome&sni=aws.amazon.com&sid=afd81cdc37d888#🇩🇪 Frankfurt 1 (1Gbps)
-vless://bf432795-1383-46e5-8823-d638b956cabe@144.31.233.146:43361?security=reality&type=tcp&flow=&pbk=OVkz4f4FnObOQT4vz8SqpiuzFDmTjYH4OZk2wIbjgCk&fp=chrome&sni=www.nvidia.com&sid=55ba93eb8c#🇳🇱 Amsterdam 2 (100Mbps)
-vless://0ca20960-99aa-4c92-b44d-e08829ef1a69@vpn3.osaku.ru:30385?security=reality&type=tcp&flow=&pbk=BudozUb-DKLwfXzhtlvp_FR8iZoOWwwOvr9K_jd9uQw&fp=chrome&sni=yahoo.com&sid=6232ac20545869#🇩🇪 Frankfurt 3 (100Mbps)
-vless://35b8e6de-9ea9-42a6-8045-c858e1b0a37d@vpn4.osaku.ru:17873?security=reality&type=tcp&flow=&pbk=21I2zNGkoNRdySx85Ie_KY3ppat-GHMcU1bm8mSJqEY&fp=chrome&sni=yahoo.com&sid=de611036cc#🇩🇪 Frankfurt 4 (100Mbps)
+vless://513d2421-7ab5-49c1-b300-c71c3525ce26@64.188.106.201:16579?security=reality&type=tcp&flow=&pbk=H0LmyOHq4pLUS06_gdmP4SjvrwsLTcBO3Y5K-T-hIAA&fp=chrome&sni=www.intel.com&sid=6d7a#🇩🇪 Frankfurt 1 (1Gbps)
+vless://7a0ae662-eee7-44c0-8998-d575870bd749@64.188.106.202:38765?security=reality&type=tcp&flow=&pbk=fUyUwpKV_0yleQhE_dZF0TuD1lw3BJ-Jo9M6iOaEFEY&fp=chrome&sni=aws.amazon.com&sid=d789a31a7a7014#🇩🇪 Frankfurt 2 (1Gbps)
+vless://60c63b41-63f3-4602-b9f3-9ee2e1369447@64.188.106.203:59851?security=reality&type=tcp&flow=&pbk=DRYYaJ_Ne7bp2CZgJrYMuBy3o835I0s6p-H_HjTsWRc&fp=chrome&sni=www.icloud.com&sid=a211#🇩🇪 Frankfurt 3 (1Gbps)
+vless://b78bd037-8dae-4b63-9d01-97117d502588@144.124.248.181:31310?security=reality&type=tcp&flow=&pbk=_DcYJZrSUx3ltgXtLN1uWbQyurZ2G0okuMYvOm1j9Ss&fp=chrome&sni=aws.amazon.com&sid=d80997ce8c121d7f#🇳🇱 Amsterdam 4 (1Gbps)
+vless://40fb2d29-374c-4255-ae56-bf3ad95b8b37@144.31.239.139:25340?security=reality&type=tcp&flow=&pbk=fmLlp7Vg3qzskePTLeNWmgppe3TPYlHb_yqBzRxaxUE&fp=chrome&sni=www.sony.com&sid=4830d187#🇫🇷 Paris 5 (1Gbps)
