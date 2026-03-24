@@ -1,6 +1,6 @@
 # profile-title: ShieldWalker | FREE 💘 |
 # profile-update-interval: 3
-#support-url https://t.me/ShieldWalker_Support
+# support-url https://t.me/ShieldWalker_Support
 vless://b605b776-b676-430e-8957-00f1e0166bee@vleesvpn-app-nl01.gw-vpn.click:443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=plus.im&fp=random&pbk=j5sQbSLF4SeU7XHU27W56ZuveT-O6HwxX2wi5neM4UM&sid=abcdef00#🇳🇱 Netherlands Amsterdam 1
 vless://b605b776-b676-430e-8957-00f1e0166bee@vleesvpn-app-nl02.gw-vpn.click:443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=plus.im&fp=random&pbk=j5sQbSLF4SeU7XHU27W56ZuveT-O6HwxX2wi5neM4UM&sid=abcdef00#🇳🇱 Netherlands Amsterdam 2
 vless://0c8a9f50-51b3-43b5-b1fb-09fc3131a800@vpn-uk01-app-vlees.gw-vpn.click:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=plus.im&fp=random&pbk=F-isG6llu_Z1jONhrH-WkXzJGY43KIyMGICEPJ85wzA&sid=a1b2c3d4#%F0%9F%87%AC%F0%9F%87%A7%20UK%201
