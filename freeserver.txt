@@ -1,6 +1,6 @@
 # profile-title: ShieldWalker | FREE 💘 |
 # profile-update-interval: 3
-vless://b605b776-b676-430e-8957-00f1e0166bee@vleesvpn-app-nl02.gw-vpn.click:443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=plus.im&fp=random&pbk=j5sQbSLF4SeU7XHU27W56ZuveT-O6HwxX2wi5neM4UM&sid=abcdef00#🇳🇱 Netherlands Amsterdam 1
-vless://97b2cd5b-b98d-494f-8f97-3a06e8c1bbd2@18.245.54.3:443?path=%2F&security=tls&encryption=none&host=d2sggt3uqobhbx.cloudfront.net&fp=chrome&type=ws&sni=d2sggt3uqobhbx.cloudfront.net&alpn=h2%2Chttp%2F1.1#Germany 🇩🇪
+vless://c5291d2a-b015-43da-ab7c-3345ec2c4a56@144.31.47.116:53241?security=reality&type=tcp&flow=&pbk=zJrsvTmXbQHGCqSHBxCnpRlrwxJiO0XTP2gwE6QBoB0&fp=chrome&sni=www.intel.com&sid=f88a44#🇫🇮 Finland Helsinki 1
+vless://99a9b863-270f-423a-9a34-84da43f5285a@144.31.230.204:23831?security=reality&type=tcp&flow=&pbk=3xRN-fHKaOEM7oQb2OaCUMAFOeewLvdn6u8W6mFYWjQ&fp=chrome&sni=yandex.ru&sid=1166af#🇸🇪 Sweden Stockholm 1
 vless://97b2cd5b-b98d-494f-8f97-3a06e8c1bbd2@18.245.54.3:443?path=%2F&security=tls&encryption=none&host=d2fpx0lirf9lpk.cloudfront.net&fp=chrome&type=ws&sni=d2fpx0lirf9lpk.cloudfront.net&alpn=h2%2Chttp%2F1.1#Germany 🇩🇪
 vless://97b2cd5b-b98d-494f-8f97-3a06e8c1bbd2@18.245.54.3:443?path=%2F&security=tls&encryption=none&host=d1f4urqtjo8prx.cloudfront.net&fp=chrome&type=ws&sni=d1f4urqtjo8prx.cloudfront.net&alpn=h2%2Chttp%2F1.1#РЕЗЕРВНЫЙ%20СЕРВЕР
