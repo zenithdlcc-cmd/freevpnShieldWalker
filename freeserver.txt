@@ -1,6 +1,6 @@
 # profile-title: ShieldWalker | FREE 💘 |
 # profile-update-interval: 3
-vless://f17d4129-ee8b-48f4-baa6-89de1e906b8e@109.120.150.239:4355?type=tcp&security=reality&flow=xtls-rprx-vision&sni=files.moscownews24.ru&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20
+vless://f17d4129-ee8b-48f4-baa6-89de1e906b8e@109.120.150.239:4355?type=tcp&security=reality&flow=xtls-rprx-vision&sni=files.moscownews24.ru&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands
 vless://c23ad661-aa94-4d13-a183-59f359b6a1d5@31.13.208.161:28067?security=reality&type=tcp&flow=&pbk=rvnwEuYMKCmb1nGCXuJINiHNyjoiishhyEnAtjqOmm4&fp=chrome&sni=yandex.ru&sid=ea16#🇫🇮 Finland Helsinki
 vless://99a9b863-270f-423a-9a34-84da43f5285a@144.31.230.204:23831?security=reality&type=tcp&flow=&pbk=3xRN-fHKaOEM7oQb2OaCUMAFOeewLvdn6u8W6mFYWjQ&fp=chrome&sni=yandex.ru&sid=1166af#🇸🇪 Sweden Stockholm
 vless://97b2cd5b-b98d-494f-8f97-3a06e8c1bbd2@18.245.54.3:443?path=%2F&security=tls&encryption=none&host=d2fpx0lirf9lpk.cloudfront.net&fp=chrome&type=ws&sni=d2fpx0lirf9lpk.cloudfront.net&alpn=h2%2Chttp%2F1.1#Germany 🇩🇪
