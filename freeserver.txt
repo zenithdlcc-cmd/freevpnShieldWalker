@@ -1,7 +1,6 @@
 # profile-title: ShieldWalker | FREE 💘 |
 # profile-update-interval: 3
 vless://f17d4129-ee8b-48f4-baa6-89de1e906b8e@109.120.150.239:4355?type=tcp&security=reality&flow=xtls-rprx-vision&sni=files.moscownews24.ru&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands
-vless://e033ef6e-ab4b-47d4-a523-ff568d2c8dbb@45.12.146.179:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tradingview.com&fp=chrome&pbk=TH8C9sgNuMRVR3o5QehXPgYw8PWjoHrH2rVQF4JWwGI&type=tcp#🇫🇮 Finland
 vless://f17d4129-ee8b-48f4-baa6-89de1e906b8e@62.60.151.74:4320?type=tcp&security=reality&flow=xtls-rprx-vision&sni=files.moscownews24.ru&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20439Mbps%202
 vless://97b2cd5b-b98d-494f-8f97-3a06e8c1bbd2@18.245.54.3:443?path=%2F&security=tls&encryption=none&host=d2fpx0lirf9lpk.cloudfront.net&fp=chrome&type=ws&sni=d2fpx0lirf9lpk.cloudfront.net&alpn=h2%2Chttp%2F1.1#Germany 🇩🇪
 vless://97b2cd5b-b98d-494f-8f97-3a06e8c1bbd2@18.245.54.3:443?path=%2F&security=tls&encryption=none&host=d1f4urqtjo8prx.cloudfront.net&fp=chrome&type=ws&sni=d1f4urqtjo8prx.cloudfront.net&alpn=h2%2Chttp%2F1.1#РЕЗЕРВНЫЙ%20СЕРВЕР
